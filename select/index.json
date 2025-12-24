@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "27",
+  "base_artist": "成田あより",
+  "createdAt": "2025-12-24T09:37:23.410143Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Section 27 [Mental Cabaret]",
+      "artist": "The Polyphonic Spree",
+      "has_synced": false,
+      "path": "select/01_Section_27_[Mental_Cabaret]_The_Polyphonic_Spree.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "27",
+      "artist": "ВЛАЖНОСТЬ",
+      "has_synced": false,
+      "path": "select/02_27_ВЛАЖНОСТЬ.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "27",
+      "artist": "Title Fight",
+      "has_synced": true,
+      "path": "select/03_27_Title_Fight.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Isn't It A Pity (Session Outtakes And Jams / Take 27)",
+      "artist": "George Harrison",
+      "has_synced": false,
+      "path": "select/04_Isn't_It_A_Pity_(Session_Outtakes_And_Jams___Take_27)_George_Harrison.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Isn't It A Pity (Take 27)",
+      "artist": "George Harrison",
+      "has_synced": false,
+      "path": "select/05_Isn't_It_A_Pity_(Take_27)_George_Harrison.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "She Came In Through The Bathroom Window - Take 27",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/06_She_Came_In_Through_The_Bathroom_Window_-_Take_27_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "27 Questions",
+      "artist": "black midi",
+      "has_synced": true,
+      "path": "select/07_27_Questions_black_midi.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "God (Take 27 / Out-take / Ultimate Mix)",
+      "artist": "John Lennon",
+      "has_synced": false,
+      "path": "select/08_God_(Take_27___Out-take___Ultimate_Mix)_John_Lennon.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Isn’t It a Pity (session outtakes and jams ⁄ take 27)",
+      "artist": "George Harrison",
+      "has_synced": false,
+      "path": "select/09_Isn’t_It_a_Pity_(session_outtakes_and_jams_⁄_take_27)_George_Harrison.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "27",
+      "artist": "Fall Out Boy",
+      "has_synced": true,
+      "path": "select/10_27_Fall_Out_Boy.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "27 Club",
+      "artist": "Ivy Levan",
+      "has_synced": true,
+      "path": "select/11_27_Club_Ivy_Levan.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "27 Club (CLVY Remix)",
+      "artist": "Ivy Levan",
+      "has_synced": true,
+      "path": "select/12_27_Club_(CLVY_Remix)_Ivy_Levan.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "27 Club (Goshfather & Jinco Remix)",
+      "artist": "Ivy Levan",
+      "has_synced": true,
+      "path": "select/13_27_Club_(Goshfather_&_Jinco_Remix)_Ivy_Levan.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "27 Club (Riddler Remix)",
+      "artist": "Ivy Levan",
+      "has_synced": false,
+      "path": "select/14_27_Club_(Riddler_Remix)_Ivy_Levan.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "27 Years of Pain",
+      "artist": "Slug † Christ",
+      "has_synced": false,
+      "path": "select/15_27_Years_of_Pain_Slug_†_Christ.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "27 Years of Pain",
+      "artist": "Slug Christ",
+      "has_synced": false,
+      "path": "select/16_27_Years_of_Pain_Slug_Christ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "27",
+      "artist": "成田あより",
+      "has_synced": false,
+      "path": "select/pl_01_27_成田あより.txt"
+    }
+  ]
+}
